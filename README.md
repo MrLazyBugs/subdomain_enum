@@ -15,6 +15,9 @@ Use This Command: 👉👉
 sed -i -e 's/\r$//' subdomain_enum.sh 
 
 ----------------------------------------TOOLS THAT HAVE BEEN USED-------------------------------------------
+
+
+
 1.Subfinder
 2.Amass
 3.Assetfinder
