@@ -9,3 +9,7 @@ Make it executable using chmod +x subdomain_enum.sh.
 
 Run the script by providing a domain as an argument:
 ./subdomain_enum.sh example.com
+if you looking a problem [ zsh: ./subdomain_enum.sh: bad interpreter: /bin/bash^M: no such file or directory ]
+
+Use This Command: 👇👇
+sed -i -e 's/\r$//' subdomain_enum.sh 
