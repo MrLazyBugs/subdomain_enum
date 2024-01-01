@@ -18,4 +18,4 @@ sed -i -e 's/\r$//' subdomain_enum.sh
 1.Subfinder
 2.Amass
 3.Assetfinder
-5.Sublist3r
+4.Sublist3r
